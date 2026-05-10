@@ -60,3 +60,15 @@ This dashboard includes:
 
 ### Shipping & Logistics Dashboard
 ![Shipping Dashboard](Shipping_Logistics_Dashboard.png)
+
+## How to Use
+
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Refresh data if required
+4. Explore interactive dashboard pages
+
+## Author
+
+Seema Metri  
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
