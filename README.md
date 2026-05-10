@@ -63,7 +63,7 @@ This dashboard includes:
 
 ## How to Use
 
-1. Download the Ecommerce_Sales_Operations_Dashboard.pbix file
+1. Download the `Ecommerce_Sales_Operations_Dashboard.pbix` file
 2. Open in Power BI Desktop
 3. Refresh data if required
 4. Explore interactive dashboard pages
