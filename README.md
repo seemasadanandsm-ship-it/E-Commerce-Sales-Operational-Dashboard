@@ -53,11 +53,11 @@ This dashboard includes:
 ## Dashboard Preview
 
 ### Executive Sales Dashboard
-![Executive Dashboard](Page1_Executive_Dashboard.png)
+![Executive_Dashboard](Page1_Executive_Dashboard.png)
 
 ### Customer Analytics Dashboard
-![Customer Analytics](Page2_Customer_Analytics.png)
+![Customer_Analytics](Page2_Customer_Analytics.png)
 
 ### Shipping & Logistics Dashboard
-![Shipping Dashboard](Page3_Shipping_Logistics.png)
+![Shipping_Dashboard](Page3_Shipping_Logistics.png)
 
