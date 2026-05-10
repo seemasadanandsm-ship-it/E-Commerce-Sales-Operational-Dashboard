@@ -40,3 +40,19 @@ This Power BI project analyzes e-commerce sales, customer behavior, profitabilit
 - Customer Analytics
 - Logistics Analytics
 - Business Storytelling
+- Excited to share my latest Power BI project:
+E-Commerce Sales & Operations Dashboard
+
+This dashboard includes:
+• Executive Sales Analytics
+• Customer Analytics
+• Shipping & Logistics Insights
+• KPI Tracking
+• DAX Measures
+• Interactive Visualizations
+
+Tools Used:
+Power BI | Power Query | DAX
+
+GitHub Repository:
+https://github.com/seemasadanandsm-ship-it/E-Commerce-Sales-Operational-Dashboard
